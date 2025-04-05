@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\WebApiPerson_AD.props" />
-</Project>
